@@ -17,4 +17,4 @@
 #create stock api in json--> java script object notation
 
 myStock = open("mystock.json","w")
-myStock.write("this is my stock api")
+myStock.write("{'name' : 'Harsh'}")
