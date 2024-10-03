@@ -18,3 +18,5 @@
 
 myStock = open("mystock.json","w")
 myStock.write("{'name' : 'Harsh'}")
+
+#create read write data in csv, excel, json, txt

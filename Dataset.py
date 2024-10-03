@@ -33,7 +33,7 @@ print(myset)
 myinfo = {"name" : "Harsh kumar",
         "email" :"harshkumar276002@gmail.com",
         "mobile" : "7464084218",
-        "Age" :19,}
+        "Age" :19}
 
 for value in myinfo.values():
      print(value)
